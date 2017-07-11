@@ -1,0 +1,8 @@
+{
+  "generator-helix": {
+    "promptValues": {
+      "sourceFolder": "src",
+      "VendorPrefix": "Sitecore.Demo.Group"
+    }
+  }
+}
